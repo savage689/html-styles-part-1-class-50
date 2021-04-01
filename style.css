@@ -1,0 +1,23 @@
+
+    * {border:solid}
+    h1 {color:red}
+
+    .firststyles{background-color: rgba(0, 0, 255, 0.445);
+    display:flex;
+justify-content: space-between;}
+
+.box{
+    background-color: crimson;
+}
+
+.box2{
+    background-color: darkgoldenrod;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.iconsstyles{
+    background-image: linear-gradient(red,yellow 10%,blue,black);
+    display:flex;
+    justify-content: flex-end;
+}
